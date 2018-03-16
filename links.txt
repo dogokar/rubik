@@ -1,0 +1,18 @@
+http://www.cube20.org/
+http://www.cube20.org/distance20s/
+https://www.francocube.com/notation
+https://www.quora.com/Can-we-write-a-computer-program-to-solve-a-Rubiks-cube
+http://leisureprogramming.blogspot.fr/2015/05/rubiks-cube-solver-c.html
+http://heuristicswiki.wikispaces.com/Rubik%27s%20cube
+https://en.wikipedia.org/wiki/Iterative_deepening_A*
+https://codegolf.stackexchange.com/questions/10768/solve-rubiks-cube
+https://en.wikipedia.org/wiki/Morwen_Thistlethwaite#Thistlethwaite.27s_algorithm
+http://www.youngscientist.com.au/wp-content/uploads/2015/02/Physics-10-12-Justin-Marcellienus-report.pdf
+https://www.google.fr/search?ei=XSSpWrStEI29gAa_8K3IDw&q=rubik%27s+cube+solver+3x3+algorithm+program&oq=rubik%27s+cube+solver+3x3+algorithm+program&gs_l=psy-ab.3..33i160k1l3.2850.2850.0.3017.1.1.0.0.0.0.125.125.0j1.1.0....0...1c.1.64.psy-ab..0.1.124....0.sttyrvZOV3s
+https://www.quora.com/Can-we-write-a-computer-program-to-solve-a-Rubiks-cube
+https://codegolf.stackexchange.com/questions/10768/solve-rubiks-cube
+
+GITHUB :
+https://github.com/vipul-sharma20/rubiks-cube-opencv
+https://github.com/austinkinross/rubiks-cube-solver
+https://github.com/brownan/Rubiks-Cube-Solver
